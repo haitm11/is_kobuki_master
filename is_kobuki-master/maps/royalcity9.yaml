@@ -1,0 +1,7 @@
+image: royalcity9.png
+resolution: 0.133000
+origin: [-34.114502, -34.114502, 0.000000]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+

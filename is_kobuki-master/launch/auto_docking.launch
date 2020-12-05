@@ -1,0 +1,4 @@
+<launch>
+  <!-- Auto Docking -->
+  <include file="$(find kobuki_auto_docking)/launch/minimal.launch" />
+</launch>
